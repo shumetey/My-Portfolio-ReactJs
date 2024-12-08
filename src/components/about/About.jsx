@@ -33,6 +33,8 @@ const About = () => {
                   <BsBookmarkStar className='about__icon'/>
                   <h5>Commulative GPA</h5>
                   <small>3.95</small>
+                  <h5>Exit Exam Result</h5>
+                  <small>79%</small>
               </article>
 
               <article className='about__card'>
@@ -40,8 +42,11 @@ const About = () => {
                   <h5>Domains</h5>
                   <small>
                     <ul>
-                      <li>User Centric</li>
-                      <li>Web Based Systems</li>
+                    <li>Industry Focus</li>
+                    <li>Technical Skills</li>
+                    <li>Problem Solving</li>
+                    <li>User Centric</li>
+                    <li>Web Based Systems</li>
                     </ul>
                   </small>
               </article>
