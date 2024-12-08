@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio-ReactJs/static/css/main.863903b1.css",
+    "main.js": "/My-Portfolio-ReactJs/static/js/main.01903407.js",
+    "static/media/Shumuye-CV.pdf": "/My-Portfolio-ReactJs/static/media/Shumuye-CV.3798e3599e24fac0a774.pdf",
+    "static/media/TSL.png": "/My-Portfolio-ReactJs/static/media/TSL.6cf293caeebeacef9c48.png",
+    "static/media/CMS.jpg": "/My-Portfolio-ReactJs/static/media/CMS.5bcda721b8f0c8bf5bde.jpg",
+    "static/media/Meyla.JPG": "/My-Portfolio-ReactJs/static/media/Meyla.b229cc4652d7681eac74.JPG",
+    "static/media/JobPortal.JPG": "/My-Portfolio-ReactJs/static/media/JobPortal.132efa6f2f4d68f89286.JPG",
+    "static/media/IQ.JPG": "/My-Portfolio-ReactJs/static/media/IQ.a19e50be9e9f220a1a20.JPG",
+    "static/media/Pentech.JPG": "/My-Portfolio-ReactJs/static/media/Pentech.78c553d5281f9ea85b1d.JPG",
+    "static/media/img-1.jpg": "/My-Portfolio-ReactJs/static/media/img-1.ada2e80596483c900b83.jpg",
+    "index.html": "/My-Portfolio-ReactJs/index.html",
+    "main.863903b1.css.map": "/My-Portfolio-ReactJs/static/css/main.863903b1.css.map",
+    "main.01903407.js.map": "/My-Portfolio-ReactJs/static/js/main.01903407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863903b1.css",
+    "static/js/main.01903407.js"
+  ]
+}
