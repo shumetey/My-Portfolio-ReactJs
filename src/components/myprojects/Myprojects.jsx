@@ -21,7 +21,7 @@ const Myprojects = () => {
             <h3>Tigray Service Locator</h3>
             <small className='text-light'>Laravel | Php | MySQL</small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/shumetey/FashionGallery" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://github.com/shumetey/Tigray-Service-Locator" target="_blank" rel='noreferrer' className='btn'>Github</a>
             </div>
               
         </article>
@@ -32,7 +32,7 @@ const Myprojects = () => {
             <h3>Crime Management System</h3>
             <small className='text-light'>VueJS | TailwindCSS | NodeJs | Express | MySQL</small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/shumetey/Beauty-Garden" target="_blank" rel='noreferrer' className='btn'>Github</a>  
+              <a href="https://github.com/shumetey/Crime-Management-System-Sequelize" target="_blank" rel='noreferrer' className='btn'>Github</a>  
             </div>
             
         </article>
@@ -43,8 +43,8 @@ const Myprojects = () => {
             <h3>My Portfolio(This website)</h3>
             <small className='text-light'>ReactJs</small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/shumetey/my-portfolio" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://shumetey.github.io/my-portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+              <a href="https://github.com/shumetey/My-Portfolio-ReactJs" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://github.com/shumetey/My-Portfolio-ReactJs/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
             </div>
             
         </article>
@@ -55,8 +55,8 @@ const Myprojects = () => {
             <h3>My Resume</h3>
             <small className='text-light'>React | TailwindCSS | JS | NodeJs</small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/shumetey/my-resume" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://shumetey.github.io/my-resume/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+              <a href="https://github.com/shumetey/My-Portfolio-ReactJs" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://github.com/shumetey/My-Portfolio-ReactJs/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
             </div>
             
         </article>
