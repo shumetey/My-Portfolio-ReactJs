@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Shumuye-Aregay-Portfolio/static/css/main.6591ea6f.css",
-    "main.js": "/Shumuye-Aregay-Portfolio/static/js/main.a9658dca.js",
-    "static/media/Shumuye-CV.pdf": "/Shumuye-Aregay-Portfolio/static/media/Shumuye-CV.3798e3599e24fac0a774.pdf",
+    "main.js": "/Shumuye-Aregay-Portfolio/static/js/main.b9d90d2b.js",
+    "static/media/Shumuye-CV.pdf": "/Shumuye-Aregay-Portfolio/static/media/Shumuye-CV.f100aab12218f0e59a03.pdf",
     "static/media/TSL.png": "/Shumuye-Aregay-Portfolio/static/media/TSL.6cf293caeebeacef9c48.png",
     "static/media/CMS.jpg": "/Shumuye-Aregay-Portfolio/static/media/CMS.5bcda721b8f0c8bf5bde.jpg",
     "static/media/Meyla.JPG": "/Shumuye-Aregay-Portfolio/static/media/Meyla.b229cc4652d7681eac74.JPG",
@@ -12,10 +12,10 @@
     "static/media/img-1.jpg": "/Shumuye-Aregay-Portfolio/static/media/img-1.ada2e80596483c900b83.jpg",
     "index.html": "/Shumuye-Aregay-Portfolio/index.html",
     "main.6591ea6f.css.map": "/Shumuye-Aregay-Portfolio/static/css/main.6591ea6f.css.map",
-    "main.a9658dca.js.map": "/Shumuye-Aregay-Portfolio/static/js/main.a9658dca.js.map"
+    "main.b9d90d2b.js.map": "/Shumuye-Aregay-Portfolio/static/js/main.b9d90d2b.js.map"
   },
   "entrypoints": [
     "static/css/main.6591ea6f.css",
-    "static/js/main.a9658dca.js"
+    "static/js/main.b9d90d2b.js"
   ]
 }
