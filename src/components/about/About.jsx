@@ -26,7 +26,7 @@ const About = () => {
               <article className='about__card'>
                   <GiGraduateCap className='about__icon'/>
                   <h5>Degree</h5>
-                  <small>Bsc. Inforamtion Technology(IT) <br /><i>Mekelle University - Mekelle Institute Of Technology (MIT).</i></small>
+                  <small>Bsc. Information Technology(IT) <br /><i>Mekelle University - Mekelle Institute Of Technology (MIT).</i></small>
               </article>
 
               <article className='about__card'>
@@ -55,10 +55,10 @@ const About = () => {
 
             </div>
             <p>
-                    I'm a <b>Inforamtion Technology Postgradute</b> at Mekelle University (MU-MIT). 
-                    I'm an enthusiastic and driven Inforamtion Technology seeking a challenging opportunity to apply 
+                    I'm a <b>Information Technology Postgradute</b> at Mekelle University (MU-MIT). 
+                    I'm an enthusiastic and driven Information Technology seeking a challenging opportunity to apply 
                     and expand my technical skills. 
-                    With a strong academic foundation in Inforamtion Technology and hands-on experience in various programming languages,
+                    With a strong academic foundation in Information Technology and hands-on experience in various programming languages,
                     I am eager to contribute to innovative projects and learn from experienced professionals in the industry. I am a quick learner who is always ready to face challenges.
                     
             </p>
